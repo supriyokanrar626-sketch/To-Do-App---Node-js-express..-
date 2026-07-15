@@ -23,10 +23,14 @@ This was my first full backend project where I learned routing, templating, and 
 git clone https: clone my repository..
 
 todo-app-nodejs-express/
+
 ├── public/
-│   └── style.css
+   └── style.css
+
 ├── views/
-│   └── index.ejs
+   └── index.ejs
+
+
 ├── app.js
 ├── package.json
 └── README.md
