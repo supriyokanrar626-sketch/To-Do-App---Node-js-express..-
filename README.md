@@ -1,6 +1,6 @@
 # Todo App - Node.js + Express
 
-A simple and clean Todo List application built with Node.js, Express.js, EJS, and CSS. 
+A simple and clean Todo List application built with Node.js, Express.js, EJS, and  CSS. 
 This was my first full backend project where I learned routing, templating, and serving static files.
 
 ## ✨ Features
