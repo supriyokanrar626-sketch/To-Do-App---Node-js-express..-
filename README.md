@@ -20,4 +20,13 @@ This was my first full backend project where I learned routing, templating, and 
 
 1.  Clone the repository
 `bash
-git clone https://github.com/tomar-username/todo-app-nodejs-express.git
+git clone https: clone my repository..
+
+todo-app-nodejs-express/
+├── public/
+│   └── style.css
+├── views/
+│   └── index.ejs
+├── app.js
+├── package.json
+└── README.md
